@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "mod5/1.0.0": {
+      "mod5_103022300056/1.0.0": {
         "runtime": {
-          "mod5.dll": {}
+          "mod5_103022300056.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "mod5/1.0.0": {
+    "mod5_103022300056/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
