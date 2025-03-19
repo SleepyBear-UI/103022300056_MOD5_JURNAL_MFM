@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\103022300056_MOD5_JURNAL_MFM\\103022300056_MOD5_JURNAL_MFM.csproj",
-      "projectName": "103022300056_MOD5_JURNAL_MFM",
-      "projectPath": "D:\\103022300056_MOD5_JURNAL_MFM\\103022300056_MOD5_JURNAL_MFM.csproj",
+      "projectUniqueName": "D:\\103022300056_MOD5_JURNAL_MFM\\mod5.csproj",
+      "projectName": "mod5",
+      "projectPath": "D:\\103022300056_MOD5_JURNAL_MFM\\mod5.csproj",
       "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
       "outputPath": "D:\\103022300056_MOD5_JURNAL_MFM\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103022300056_MOD5_JURNAL_MFM", "103022300056_MOD5_JURNAL_MFM.csproj", "{BE096EEC-2DC4-4517-B5A9-EBCF6C62B6B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod5", "mod5.csproj", "{BE096EEC-2DC4-4517-B5A9-EBCF6C62B6B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
