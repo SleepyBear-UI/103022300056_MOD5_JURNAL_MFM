@@ -1,0 +1,15 @@
+D:\103022300056_MOD5_JURNAL_MFM\bin\Debug\net8.0\mod5.exe
+D:\103022300056_MOD5_JURNAL_MFM\bin\Debug\net8.0\mod5.deps.json
+D:\103022300056_MOD5_JURNAL_MFM\bin\Debug\net8.0\mod5.runtimeconfig.json
+D:\103022300056_MOD5_JURNAL_MFM\bin\Debug\net8.0\mod5.dll
+D:\103022300056_MOD5_JURNAL_MFM\bin\Debug\net8.0\mod5.pdb
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.GeneratedMSBuildEditorConfig.editorconfig
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.AssemblyInfoInputs.cache
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.AssemblyInfo.cs
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.csproj.CoreCompileInputs.cache
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.sourcelink.json
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.dll
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\refint\mod5.dll
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.pdb
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\mod5.genruntimeconfig.cache
+D:\103022300056_MOD5_JURNAL_MFM\obj\Debug\net8.0\ref\mod5.dll
