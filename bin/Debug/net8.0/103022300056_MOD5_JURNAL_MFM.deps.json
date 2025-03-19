@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "103022300056_MOD5_JURNAL_MFM/1.0.0": {
+        "runtime": {
+          "103022300056_MOD5_JURNAL_MFM.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "103022300056_MOD5_JURNAL_MFM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
